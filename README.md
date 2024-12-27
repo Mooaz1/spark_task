@@ -41,12 +41,9 @@ This will launch the app on your connected device or emulator.
 
 
    ## Assumptions Made During Development
-   
+
        1- Target Platform
-       2- The app is primarily developed for Android but can be built for iOS with minimal adjustments.
+        The app is primarily developed for Android but can be built for iOS with minimal adjustments.
+       2- Dependencies
 
-Dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
