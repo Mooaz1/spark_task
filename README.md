@@ -46,4 +46,5 @@ This will launch the app on your connected device or emulator.
         The app is primarily developed for Android but can be built for iOS with minimal adjustments.
        2- Dependencies
 
+![image](https://github.com/user-attachments/assets/a531e598-bdc1-4d12-a866-8828744b035a)
 
