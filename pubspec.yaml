@@ -41,8 +41,6 @@ dependencies:
   intl: 
   easy_localization: ^3.0.3
   logger: ^2.5.0
-  simple_animations: ^4.2.0
-  supercharged: 
   lottie:
 
 dev_dependencies:
